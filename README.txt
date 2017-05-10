@@ -22,9 +22,9 @@ UNDERSTANDING CODE STRUCTURE:
 * SecondViewController.swift = Code for second tab (“Add More”)
 * Main.storyboard = Visual layout of application. Provides conceptual overview of app.
 
-For further explanation and screenshots of the working app please see my final report. 
+For further explanation and screenshots of the working app please see my final report (section 6). 
 
 TUTORIALS USED: 
-“The Swift Guy”s tutorials were used as guidance while building this app (reference -https://www.youtube.com/watch?v=LrCqXmHenJY). For additional tutorials used, please see my final report.  
+“The Swift Guy”s tutorials were used as guidance and for code design while building this app (reference - https://www.youtube.com/watch?v=LrCqXmHenJY). For additional tutorials used, please see my final report (section 5). 
 
 
