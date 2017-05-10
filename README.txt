@@ -25,6 +25,6 @@ UNDERSTANDING CODE STRUCTURE:
 For further explanation and screenshots of the working app please see my final report. 
 
 TUTORIALS USED: 
-“The Swift Guy”s tutorials were used as guidance while building this app (https://www.youtube.com/watch?v=LrCqXmHenJY). For additional tutorials used, please see my final report.  
+“The Swift Guy”s tutorials were used as guidance while building this app (reference -https://www.youtube.com/watch?v=LrCqXmHenJY). For additional tutorials used, please see my final report.  
 
 
