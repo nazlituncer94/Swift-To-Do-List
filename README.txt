@@ -11,7 +11,7 @@ Pre-requisites - Install the latest version of XCode from the Mac App Store to b
 3) Click the “Run” button on the upper left corner. This will first build your application and then initiate the iOS simulator so you can view the app. 
 
 Notes: 
-* There is no “main file/function” in Swift’s code design so you can run without having to select a specific file within the folder. 
+* There is no “main file/function” in Swift’s code design so you can run without having to select a specific file within the To Do List folder. 
 * You can change which iOS device is shown on the simulator by clicking drop-down menu to the right of “Run” button (e.g. iPhone SE, iPhone 6s, etc.) 
 * The first time the simulator is run it will take a substantial time to load. Please allow ~ 15 minutes. 
 
